@@ -4,6 +4,12 @@ import java.util.Scanner;
 
 public class Employee {
 
+	
+	
+	public  void Emp() {
+	
+		System.out.println("Emp salary is: 1000");
+	}
 	public static void main(String[] args) {
 		
 	
