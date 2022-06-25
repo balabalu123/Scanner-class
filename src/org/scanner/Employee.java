@@ -5,10 +5,17 @@ import java.util.Scanner;
 public class Employee {
 
 	
+	public  void Emp() {
+		
+		System.out.println("Emp salary is: 1000");
+
+	}
 	public void Salary() {
 	System.out.println("Salary is 20000");
 
 	}
+	
+
 	public static void main(String[] args) {
 		
 	
