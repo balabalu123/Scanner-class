@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class Employee {
 
+	
+	public void Salary() {
+	System.out.println("Salary is 20000");
+
+	}
 	public static void main(String[] args) {
 		
 	
